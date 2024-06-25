@@ -1,0 +1,5 @@
+{
+  "name": "linter",
+  "description": "A simple linter integration plugin for ZED",
+  "main": "linter.js"
+}
